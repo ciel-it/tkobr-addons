@@ -29,7 +29,7 @@
     'author': 'ThinkOpen Solutions Brasil',
     'license': 'AGPL-3',
     'website': 'http://tkobr.com',
-    'version': '0.006',
+    'version': '2.0.0',
     'sequence': 10,
     'depends': [
         'base',
@@ -38,8 +38,6 @@
     ],
     'data': [
         'security/ir.model.access.csv',
-        'res_users_view.xml',
-        'ir_mail_server_view.xml',
     ],
     'init': [],
     'demo': [],
